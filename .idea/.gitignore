@@ -1,9 +1,9 @@
 # Default ignored files
-out/
-*.class
-hotel_data/
 .idea/
+hotel_data/
+out/
+*.jar
 *.iml
+*.class
 .DS_Store
 Thumbs.db
-*.jar
