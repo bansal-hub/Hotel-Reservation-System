@@ -1,0 +1,9 @@
+# Default ignored files
+out/
+*.class
+hotel_data/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.jar
